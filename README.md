@@ -1,1 +1,2 @@
 # studyPython
+numpy、padas、pytorch
