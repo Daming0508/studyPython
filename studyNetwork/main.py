@@ -1,10 +1,3 @@
-"""
-View more, visit my tutorial page: https://mofanpy.com/tutorials/
-My Youtube Channel: https://www.youtube.com/user/MorvanZhou
-Dependencies:
-torch: 0.4
-matplotlib
-"""
 import torch
 import torch.nn.functional as F
 import matplotlib.pyplot as plt
