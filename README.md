@@ -1,2 +1,6 @@
 # studyPython
-numpy、pandas、pytorch
+numpy、
+pandas、
+pytorch、
+RL、
+DL
